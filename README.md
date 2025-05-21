@@ -1,4 +1,7 @@
 # Correlation and regression for data analysis
+# Name : Ragul K R 
+# Reg : 212224240123
+
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
